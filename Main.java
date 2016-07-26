@@ -5,7 +5,7 @@ public class Main {
     }
 
     public static void cudo() {
-        System.out.println("Dzińdybsdssadsadsadsadsadsadsaadsadry");
+        System.out.println("Dzińdybsdssadsadsadsadsadsasdasdasdsaadsadry");
     }
 
 }
